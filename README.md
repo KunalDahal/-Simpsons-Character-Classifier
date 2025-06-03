@@ -7,14 +7,6 @@ This project builds a convolutional neural network (CNN) to classify characters 
 
 The model is trained on the [Simpsons Characters Dataset](https://www.kaggle.com/datasets/kostastokis/simpsons-dataset), containing over 20,000 images of various characters.
 
-### Structure:
-```
-simpsons_dataset/
-    ├── character_1/
-    ├── character_2/
-    └── ...
-```
-
 ## 🚀 Features
 
 - Loads and preprocesses image data using `caer`
